@@ -1,0 +1,11 @@
+D:\study\C#_project\BouncingBall\BouncingBall\bin\Debug\BouncingBall.exe.config
+D:\study\C#_project\BouncingBall\BouncingBall\bin\Debug\BouncingBall.exe
+D:\study\C#_project\BouncingBall\BouncingBall\bin\Debug\BouncingBall.pdb
+D:\study\C#_project\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.AssemblyReference.cache
+D:\study\C#_project\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.SuggestedBindingRedirects.cache
+D:\study\C#_project\BouncingBall\BouncingBall\obj\Debug\BouncingBall.Form1.resources
+D:\study\C#_project\BouncingBall\BouncingBall\obj\Debug\BouncingBall.Properties.Resources.resources
+D:\study\C#_project\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.GenerateResource.cache
+D:\study\C#_project\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.CoreCompileInputs.cache
+D:\study\C#_project\BouncingBall\BouncingBall\obj\Debug\BouncingBall.exe
+D:\study\C#_project\BouncingBall\BouncingBall\obj\Debug\BouncingBall.pdb
